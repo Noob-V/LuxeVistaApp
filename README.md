@@ -1,4 +1,4 @@
-#LuxeVista Resort Mobile Application
+# LuxeVista Resort Mobile Application
 
 The LuxeVista Resort Mobile App is designed to provide a seamless and enhanced experience for guests at LuxeVista Resort, a luxury beachfront hotel. This app allows guests to easily browse and book rooms, reserve spa treatments and activities, explore local attractions, and manage their stay and bookings. Additionally, it provides access to important hotel information such as amenities and contact details.
 
