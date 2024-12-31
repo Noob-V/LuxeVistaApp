@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_services"
+        android:title="Services" />
+    <item
+        android:id="@+id/menu_attractions"
+        android:title="Attractions" />
+    <item
+        android:id="@+id/menu_about_us"
+        android:title="About Us" />
+</menu>

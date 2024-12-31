@@ -1,0 +1,5 @@
+<resources>
+    <color name="primary_text">#000000</color> <!-- Black for primary text -->
+    <color name="secondary_text">#757575</color> <!-- Gray for secondary text -->
+    <color name="background_color">#FFFFFF</color> <!-- White background -->
+</resources>
